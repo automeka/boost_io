@@ -1,0 +1,5 @@
+module boost_io {
+  header "boost/io/detail/quoted_manip.hpp"
+  header "boost/io_fwd.hpp"
+  header "boost/io/ios_state.hpp"
+}
